@@ -6,7 +6,7 @@
 
 **Интрументы:** 
 
-Python - библиотека pandas
+Python - библиотека pandas, matplotlib.pyplot, warnings
 
 **Вывод:**
 
