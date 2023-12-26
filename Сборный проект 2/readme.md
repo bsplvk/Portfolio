@@ -7,7 +7,7 @@
 
 **Инструменты:**
 
-Python - библиотека pandas, предобработка данных
+Python - библиотека pandas, numpy, matplotlib.pyplot, scipy, stats, seaborn, datetime, timedelta, plotly
 
 **Выводы:**
 
