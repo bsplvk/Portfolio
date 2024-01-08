@@ -11,3 +11,5 @@ Tableau
 **Выводы:**
 
 https://public.tableau.com/app/profile/kirill.usov/viz/Project_red1/Story1?publish=yes
+
+**Статус проекта - завершен** 
