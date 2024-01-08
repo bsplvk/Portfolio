@@ -19,3 +19,5 @@ Python - библиотека pandas, numpy, matplotlib.pyplot, scipy, stats, se
 **Презентация**
 
 https://disk.yandex.ru/d/FtXPNYpkZPQ9hg
+
+**Статус проекта - завершен** 
