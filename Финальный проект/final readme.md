@@ -16,3 +16,5 @@ Python - pandas,numpy, seaborn, statistics, plotly.graph_objects, scipy ,sklearn
 Ссылка на презентацию - https://disk.yandex.ru/i/b9_GHbZvme68hw
 
 Дашборд - https://public.tableau.com/app/profile/kirill.usov/viz/final_dash_16989676201230/Dashboard2?publish=yes
+
+**Статус проекта - завершен** 
